@@ -24,6 +24,10 @@
     <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/illustrator.svg" />
     <br/><br/>
     </div>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkamuy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pkamuy)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Contato </h2> 
 <div style="font-size: 20px">
