@@ -5,9 +5,8 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pkamuy)
 [![Instagra,](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pkamuy?utm_medium=ccopy_link)
 
-
 ![Pkamuy GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkamuy&show_icons=true&theme=merko)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkamuy&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Tecnologias que eu utilizo em Programação </h2>
 
@@ -24,10 +23,6 @@
     <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/illustrator.svg" />
     <br/><br/>
     </div>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkamuy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pkamuy)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Contato </h2> 
 <div style="font-size: 20px">
@@ -35,6 +30,8 @@ Email: pedroanderson.cardoso@gmail.com<br/>
 Cel. (11) 97373-6017
 <img align="center" alt="html5" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><img align="center" alt="html5" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br/><br/>
 </div>
+
+![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <div style="font-size: 18px">
 Seja a mudança que você quer ver no mundo (Mahatma Gandhi).
