@@ -31,8 +31,6 @@ Cel. (11) 97373-6017
 <img align="center" alt="html5" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><img align="center" alt="html5" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br/><br/>
 </div>
 
-![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <div style="font-size: 18px">
 Seja a mudança que você quer ver no mundo (Mahatma Gandhi).
 </div>
