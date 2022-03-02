@@ -30,7 +30,7 @@ Formado em comunicação Social: Publicidade e Propaganda.</h3></br>
 <h2> Contato </h2>
 <div style="font-size: 20px">
 Email: pedroanderson.cardoso@gmail.com<br/>
-Cel. (11) 97373-6017
+Cel. (11) 97373-6017 </br>
 <img align="center" alt="whastsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br/><br/>
 </div>
 
