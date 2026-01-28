@@ -5,12 +5,8 @@ Seja a mudança que você quer ver no mundo (Mahatma Gandhi).</br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pkamuy&show_icons=true&theme=merko">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pkamuy&show_icons=true&theme=merko">
 
-<h3>Sou um apaixonado por tecnologia, estou em busca de minha primeira oportunidade dentro do mundo de TI.
-Formado em Comunicação Social: Publicidade e Propaganda. Tenho 2 filhos o Kamui👦 e a Nina👧.
-Trabalhei na Telefonica Vivo por 11 anos e participei de toda revolução na telecomunicação após a privatição.
-Em 10 Anos fui testemunha de como a tecnologia pode ser a maior parceira na evolução humana, barreiras como a distancia, a falta de comunicação
-a disseminação de conhecimento e tambem do entretenimento, a globalização das informações são alguns dos muitos exemplos do poder da tecnologia.
-Passei a admirar esse mundo e hoje estou cada dia mais em busca de ver a mudança que profissionais como eu ajudaram a construir para o futuro.</h3></br>
+<h3>🎯 **Desenvolvedor focado em tecnologia e programação**  
+💻 Buscando oportunidades como desenvolvedor júnior ou estagiário</h3></br>
 
 <h2>Tecnologias que eu utilizo em Programação </h2>
 
