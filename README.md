@@ -5,7 +5,7 @@ Seja a mudança que você quer ver no mundo (Mahatma Gandhi).</br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pkamuy&show_icons=true&theme=merko">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pkamuy&show_icons=true&theme=merko">
 
-<h3>🎯 **Desenvolvedor focado em tecnologia e programação**  
+<h3>🎯 **Desenvolvedor focado em tecnologia e programação**  </br>
 💻 Buscando oportunidades como desenvolvedor júnior ou estagiário</h3></br>
 
 <h2>Tecnologias que eu utilizo em Programação </h2>
